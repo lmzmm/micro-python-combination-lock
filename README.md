@@ -12,6 +12,14 @@ mfc522：RFID射频模块
 
 支持密码的输入与修改
 
-支持ic卡认证
+支持ic卡识别与认证
+
+![image](https://github.com/user-attachments/assets/a4bcfa2a-f120-4d36-a833-f0f2e36bbd9e)
 
 使用舵机模拟开锁过程
+
+![image](https://github.com/user-attachments/assets/76bf3080-72e9-42a2-8a0d-5f5218e0a3aa)
+
+仅在完成身份认证后进入菜单
+
+![image](https://github.com/user-attachments/assets/b0f9236e-2c28-493d-ac60-8bd895c263c7)
