@@ -22,4 +22,5 @@ mfc522：RFID射频模块
 
 仅在完成身份认证后进入菜单
 
-![image](https://github.com/user-attachments/assets/b0f9236e-2c28-493d-ac60-8bd895c263c7)
+![image](https://github.com/user-attachments/assets/47d80786-e917-401e-8e32-8a25387b1bba)
+
